@@ -1,5 +1,5 @@
 # springboard
-Folder containing all springboard assignments! As of Nov 2 2020 this repository contains the following progects and case studies:
+Folder containing all springboard assignments! As of Nov 2 2020 this repository contains the following projects and case studies:
 
 ### London Boroughs Case Study
 Objective: Based on data from the London Datastore, determine which London borough has seen the greatest increase in housing prices over the last two decades.
