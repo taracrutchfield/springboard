@@ -27,3 +27,6 @@ Objective: Use logistic regression to classify individuales as male or female ba
 
 ### Decision Tree Case Study
 Objective: Use a decision tree model to predict whether customers of a specialty coffee company will purchase a new brand of coffee to advise the company on whether it would be a good investment. Includes a csv dataset of customers and their responses to a survey. 
+
+### Random Forest Case Study
+Objective: Use a random forest model to predict the state of covid patients. 
